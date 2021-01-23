@@ -4,7 +4,12 @@ This program is about phonebook management system using c. Details of people lik
 
 When the details are entered its stored in an array. The details can be listed,modified or any new detail can be added or deleted and even a particular detail can be searched.
 
-Functions
-```Menu``` displays main menu
+Functions:
+
+```Menu``` displays main menu  <br/>
+```Add/Remove``` adds or removes an element from record
+```List``` details of record
+```Modify``` the added records
+```search``` by name/phone number/address/e-mail ID
 
 Refer to the output images to understand and to execute the code.
